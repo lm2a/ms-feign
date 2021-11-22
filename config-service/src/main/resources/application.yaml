@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: main
+          default-label: ok-eureka
           uri: 'https://github.com/lm2a/ms-feign'
           search-paths: config-data
   application:
